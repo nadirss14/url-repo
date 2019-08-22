@@ -31,3 +31,15 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   ### References
   * [Color Hunt](https://colorhunt.co/)
   * [Coolors](https://coolors.co/)
+
+## Optimize Sites
+    * [W3C (Validador de codigo)](http://validator.w3.org/)
+    * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+## Project Managment
+  * [Waffle IO](http://waffle.io)
+  * [Story Book](https://storybook.js.org/)
+  * [Toggl](https://toggl.com/)
+  
+  
+    
