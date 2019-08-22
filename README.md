@@ -1,4 +1,4 @@
-# repo-to-url
+# url-repo
 Lista diferentes URLs de sitios que nos ayudan en el desarrollo
 
 ## HTML
