@@ -40,6 +40,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Waffle IO](http://waffle.io)
   * [Story Book](https://storybook.js.org/)
   * [Toggl](https://toggl.com/)
+  * [Pomodoro timer](https://tomato-timer.com/)
   
   
     
