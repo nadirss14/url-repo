@@ -34,6 +34,12 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Color Hunt](https://colorhunt.co/)
   * [Coolors](https://coolors.co/)
 
+## ICONS
+  * [Icons 8](https://iconos8.es/)
+
+## FONTS
+  * [Google fonts](https://fonts.google.com/)
+
 ## Optimize Sites 
   * [W3C (Validador de codigo)](http://validator.w3.org/)
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
@@ -49,8 +55,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Learn StoryBook](https://www.learnstorybook.com/) 
   * [Node JS](https://nodejs.org)
   
- 
- 
+
   
   
     
