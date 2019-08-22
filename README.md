@@ -15,6 +15,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Can I Use](https://caniuse.com/)
   * [W3C](https://www.w3schools.com/css/)
   * [Practice flexbox](https://flexboxfroggy.com/)
+  * [Jen Simmons](https://labs.jensimmons.com)
   
   ### Methodology
   * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
