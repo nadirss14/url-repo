@@ -38,9 +38,17 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
 
 ## Project Managment
   * [Waffle IO](http://waffle.io)
-  * [Story Book](https://storybook.js.org/)
   * [Toggl](https://toggl.com/)
   * [Pomodoro timer](https://tomato-timer.com/)
+ 
+## Software Development References
+  * [NPM](https://www.npmjs.com)
+  * [Story Book](https://storybook.js.org/)
+  * [Learn StoryBook](https://www.learnstorybook.com/) 
+  * [Node JS](https://nodejs.org)
+  
+ 
+ 
   
   
     
