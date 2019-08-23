@@ -40,6 +40,9 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
 ## FONTS
   * [Google fonts](https://fonts.google.com/)
 
+## IMAGENES
+  * [Pexels](https://www.pexels.com)
+
 ## Optimize Sites 
   * [W3C (Validador de codigo)](http://validator.w3.org/)
   * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
