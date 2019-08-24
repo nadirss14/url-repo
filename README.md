@@ -17,6 +17,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Practice flexbox](https://flexboxfroggy.com/)
   * [Practice CSS Grid](https://cssgridgarden.com/)
   * [Jen Simmons](https://labs.jensimmons.com)
+  * [Test de Accesibilidad](https://www.ssa.gov/accessibility/andi/help/install.html)
   
   ### Methodology
   * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
@@ -24,6 +25,12 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [SMACSS](http://smacss.com/)
   * [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
   * [Atomic CSS](https://acss.io/)
+  
+  ### Preprocesadores
+  * [SASS Workshop](https://github.com/teffcode/sass-workshop)
+  * [Sass](https://sass-lang.com/guide)
+  * [Less](http://lesscss.org/)
+  * [stylus](http://stylus-lang.com/)
 
 ## JAVASCRIPT
   ### Documentation/References
