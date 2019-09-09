@@ -6,6 +6,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [MDN mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [HTML references](https://htmlreference.io)
   * [W3C](https://www.w3schools.com/html/)
+  * [Preprocesadore Html](https://pugjs.org/)
 
 ## CSS
   ### Documentation/References
@@ -36,6 +37,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   ### Documentation/References
   * [W3C](https://www.w3schools.com/js/)
   * [AST explorer](https://astexplorer.net/)
+  * [TypeScript](https://www.typescriptlang.org/)
   
 ## COLOR
   ### References
