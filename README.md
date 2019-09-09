@@ -67,6 +67,10 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Node JS](https://nodejs.org)
   * [Alligator IO](https://alligator.io)
 
+## Guias de creacion y mantenimiento de codigo
+  * [Shopify](https://polaris.shopify.com/)
+  * [Salesforce](https://lightningdesignsystem.com/)
+  * [Atlassian](https://atlassian.design/)
   
   
     
