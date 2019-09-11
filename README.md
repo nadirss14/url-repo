@@ -72,7 +72,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Learn StoryBook](https://www.learnstorybook.com/) 
   * [Node JS](https://nodejs.org)
   * [Alligator IO](https://alligator.io)
-  * [Desings patterns](https://every-layout.dev)
+  * [Desings patterns CSS](https://every-layout.dev)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
