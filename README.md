@@ -38,9 +38,10 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [W3C](https://www.w3schools.com/js/)
   * [AST explorer](https://astexplorer.net/)
   * [TypeScript](https://www.typescriptlang.org/)
+  * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
   
 ## COLOR
-  ### References
+  ### References33-js-concepts
   * [Color Hunt](https://colorhunt.co/)
   * [Coolors](https://coolors.co/)
 
@@ -71,6 +72,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Learn StoryBook](https://www.learnstorybook.com/) 
   * [Node JS](https://nodejs.org)
   * [Alligator IO](https://alligator.io)
+  * [Desings patterns](https://every-layout.dev)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
