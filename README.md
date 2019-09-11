@@ -41,7 +41,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
   
 ## COLOR
-  ### References33-js-concepts
+  ### References
   * [Color Hunt](https://colorhunt.co/)
   * [Coolors](https://coolors.co/)
 
