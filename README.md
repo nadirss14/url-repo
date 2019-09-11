@@ -73,6 +73,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Node JS](https://nodejs.org)
   * [Alligator IO](https://alligator.io)
   * [Desings patterns CSS](https://every-layout.dev)
+  * [Home MediaQueries](https://mediaqueri.es/)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
