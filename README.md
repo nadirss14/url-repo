@@ -79,6 +79,10 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Shopify](https://polaris.shopify.com/)
   * [Salesforce](https://lightningdesignsystem.com/)
   * [Atlassian](https://atlassian.design/)
+
+## Generacion de Datos
+  * [Mockaroon](https://mockaroo.com/)
+  
   
   
     
