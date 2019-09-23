@@ -39,6 +39,10 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [AST explorer](https://astexplorer.net/)
   * [TypeScript](https://www.typescriptlang.org/)
   * [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+  * [ExpressJS](https://expressjs.com)
+  * [hapi.Dev/joi](https://github.com/hapijs/joi)
+  * [hapi.Dev/boom](https://github.com/hapijs/boom)
+  
   
 ## COLOR
   ### References
