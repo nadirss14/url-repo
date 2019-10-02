@@ -78,6 +78,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Alligator IO](https://alligator.io)
   * [Desings patterns CSS](https://every-layout.dev)
   * [Home MediaQueries](https://mediaqueri.es/)
+  * [Tablero Infinito (Miro)](https://miro.com)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
