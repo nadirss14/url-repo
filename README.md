@@ -42,7 +42,8 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [ExpressJS](https://expressjs.com)
   * [hapi.Dev/joi](https://github.com/hapijs/joi)
   * [hapi.Dev/boom](https://github.com/hapijs/boom)
-  * [Libreia de utilidades Lodash](https://lodash.com/)
+  * [Libreria de utilidades Lodash](https://lodash.com/)
+  * [Libreria para hacer slice bonitos (movil support)](https://swiperjs.com/get-started/)
   
   
 ## COLOR
