@@ -43,8 +43,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [hapi.Dev/joi](https://github.com/hapijs/joi)
   * [hapi.Dev/boom](https://github.com/hapijs/boom)
   * [Libreria de utilidades Lodash](https://lodash.com/)
-  * [Libreria para hacer slice bonitos (movil support)](https://swiperjs.com/get-started/)
-  
+  * [Libreria para hacer slice bonitos (movil support)](https://swiperjs.com/get-started/)  
   
 ## COLOR
   ### References
@@ -91,7 +90,10 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
 
 ## Generacion de Datos
   * [Mockaroon](https://mockaroo.com/)
-  
+
+## Libros de tecnologia
+    * [Libros](https://www.apress.com/)
+    
 ## Codigos HTML
   * 100 - Continue
   * 101 - Switching Protocols
