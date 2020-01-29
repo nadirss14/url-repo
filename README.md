@@ -44,6 +44,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [hapi.Dev/boom](https://github.com/hapijs/boom)
   * [Libreria de utilidades Lodash](https://lodash.com/)
   * [Libreria para hacer slice bonitos (movil support)](https://swiperjs.com/get-started/)  
+  * [Generardor de keys](https://keygen.io/)
   
 ## COLOR
   ### References
