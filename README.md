@@ -93,7 +93,11 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Mockaroon](https://mockaroo.com/)
 
 ## Libros de tecnologia
-    * [Libros](https://www.apress.com/)
+  * [Libros](https://www.apress.com/)
+
+## Librerias Utiles
+  * [Nprogres](https://ricostacruz.com/nprogress/)
+  * [Slugify](https://www.npmjs.com/package/slugify)
     
 ## Codigos HTML
   * 100 - Continue
