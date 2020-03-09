@@ -47,6 +47,8 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Generardor de keys](https://keygen.io/)
   * [react-icons](https://react-icons.netlify.com/)
   * [Generador de textos cool](https://maketext.io/)
+  * [SVGOMG para optimizar SVG](https://jakearchibald.github.io/svgomg/)
+  * [Convierte SVG en Componetes React](https://react-svgr.com/playground/)
   
 ## COLOR
   ### References
