@@ -45,6 +45,8 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Libreria de utilidades Lodash](https://lodash.com/)
   * [Libreria para hacer slice bonitos (movil support)](https://swiperjs.com/get-started/)  
   * [Generardor de keys](https://keygen.io/)
+  * [react-icons](https://react-icons.netlify.com/)
+  * [Generador de textos cool](https://maketext.io/)
   
 ## COLOR
   ### References
