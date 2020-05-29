@@ -87,6 +87,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Home MediaQueries](https://mediaqueri.es/)
   * [Tablero Infinito (Miro)](https://miro.com)
   * [Loading incribles](https://loading.io/)
+  * [Generate errors http]:(https://httpstat.us)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
