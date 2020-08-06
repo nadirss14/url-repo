@@ -104,7 +104,11 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
 ## Librerias Utiles
   * [Nprogres](https://ricostacruz.com/nprogress/)
   * [Slugify](https://www.npmjs.com/package/slugify)
-    
+
+## Herramientas para SEO
+  * [Seolyzer](https://seolyzer.io/)
+  * [Screaming frog](https://www.screamingfrog.co.uk/)
+
 ## Codigos HTML
   * 100 - Continue
   * 101 - Switching Protocols
